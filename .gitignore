@@ -35,3 +35,7 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+
+# Ignore Sparkleshare and Cloud9
+.c9revisions
+SparkleShare.txt
